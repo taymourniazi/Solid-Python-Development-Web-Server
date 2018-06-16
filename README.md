@@ -6,10 +6,10 @@
 #### Spark
 #### MongoDB  
 #### Redis  
-#### CherryPy  
-#### Celery  
-#### cURL  
-#### Excel  
+#### CherryPy
+#### Celery
+#### cURL
+#### Excel
   
   
 ### Initialize database MongoDB  
