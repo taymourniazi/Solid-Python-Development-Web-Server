@@ -2,9 +2,9 @@
 ###Logistic Regression Service, Web Server and Application  
   
 ## Technology Used  
-#### Python 
-#### Spark
-#### MongoDB  
+##### Python 
+##### Spark
+##### MongoDB  
 #### Redis  
 #### CherryPy
 #### Celery
