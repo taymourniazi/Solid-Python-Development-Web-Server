@@ -1,10 +1,8 @@
 # Solid-Python-Development-Web-Server  
 ###Logistic Regression Service, Web Server and Application  
   
-## Technology Used  
-#### Python Spark CherryPy
-#### MongoDB Redis
-#### Celery cURL Excel
+## Tools Used  
+#### Python Spark CherryPy MongoDB Redis Celery cURL Excel
   
   
 ### Initialize database MongoDB  
