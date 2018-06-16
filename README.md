@@ -2,14 +2,9 @@
 ###Logistic Regression Service, Web Server and Application  
   
 ## Technology Used  
-##### Python 
-##### Spark
-##### MongoDB  
-#### Redis  
-#### CherryPy
-#### Celery
-#### cURL
-#### Excel
+#### Python Spark CherryPy
+#### MongoDB Redis
+#### Celery cURL Excel
   
   
 ### Initialize database MongoDB  
