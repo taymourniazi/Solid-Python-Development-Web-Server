@@ -67,3 +67,18 @@ def run_server(app):
 ### Start the server in command line  
   
 python modelserver.py parameters.json  
+  
+    
+## The web application  
+  
+>>> def modelservice(model_parameters):
+>>>     return app
+  
+
+>>> app = Flask(__name__)
+>>> app.config.update(CELERY_BROKER_URL='redis://localhost:6379',CELERY_RESULT_BACKEND='redis://localhost:6379')
+>>> celery = Celery(app.import_name, backend=app.config['CELERY_RESULT_BACKEND'],broker=app.config['CELERY_BROKER_URL'])
+>>> celery.conf.update(app.config)
+  
+    
+    
