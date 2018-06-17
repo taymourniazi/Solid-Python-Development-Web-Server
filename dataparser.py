@@ -67,5 +67,6 @@ class DataParser:
         return [  self.parse_line(l) for l in inputs.readlines() ]
 
         inputs.close()
+        
 
 
