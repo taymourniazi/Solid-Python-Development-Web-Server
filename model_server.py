@@ -36,3 +36,4 @@ if __name__ == "__main__":
     service = prediction_service('LogisticRegression',parameters,sc)
 
     run_server(service)
+    
