@@ -4,6 +4,7 @@ main = Blueprint('main', __name__)
 import json
 from modelfactory import ModelFactory
 
+
 from flask import Flask, request
 
 import logging
