@@ -1,5 +1,5 @@
 # Solid-Python-Development-Web-Server  
-###Logistic Regression Service, Web Server and Application  
+### Logistic Regression Service, Web Server and Application  
   
 ## Tools Used  
 #### Python Spark CherryPy MongoDB Redis Celery cURL Excel
